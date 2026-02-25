@@ -1,0 +1,49 @@
+# --- Unity 暫存與自動生成的資料夾 ---
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[MemoryCaptures]/
+[Uu]serSettings/
+
+# --- 編輯器與編譯產生的檔案 ---
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+*.vs
+*.vsconfig
+
+# --- Android / Meta Quest 相關 ---
+# 排除編譯出的安裝包
+*.apk
+*.aab
+*.unitypackage
+
+# 排除 Android 簽名金鑰 (絕對禁止上傳)
+*.keystore
+*.jks
+
+# 排除 Gradle 產出的暫存檔
+.gradle/
+/[Aa]ssets/Plugins/Android/mainTemplate.gradle
+/[Aa]ssets/Plugins/Android/launcherTemplate.gradle
+/[Aa]ssets/Plugins/Android/baseProjectTemplate.gradle
+
+# --- 系統與雜項 ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+
+
