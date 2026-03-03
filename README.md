@@ -19,8 +19,6 @@
 
       
 ## 影片展示
-//[![觀看演示影片](https://img.youtube.com/vi/w-VfFGq2ASw/0.jpg)](https://youtu.be/w-VfFGq2ASw?t=2)
-
 <div align="center">
   <a href="https://youtu.be/w-VfFGq2ASw?t=2">
     <img src="https://img.youtube.com/vi/w-VfFGq2ASw/maxresdefault.jpg" alt="專案演示影片" style="width:50%;">
