@@ -19,7 +19,7 @@
 
       
 ## 影片展示
-<div align="center">
+<div align="left">
   <a href="https://youtu.be/w-VfFGq2ASw?t=2">
     <img src="https://img.youtube.com/vi/w-VfFGq2ASw/maxresdefault.jpg" alt="專案演示影片" style="width:50%;">
   </a>
